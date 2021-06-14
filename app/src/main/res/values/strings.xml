@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">密码保险柜</string>
+    <string name="app_name2">密码保险柜(妍妍专用)</string>
+    <string name="action_settings">设置</string>
+    <string name="action_import">导入…</string>
+    <string name="action_export">导出…</string>
+    <string name="action_about">关于</string>
+    <string name="apply">确认</string>
+    <string name="empty_text">这里空空如也，快去添加你的第一条记录吧！</string>
+    <string name="about_text">因为妍妍从不记得自己的任何密码，又不能拿小本本写着。辛亏机智的老公学过信息安全，于是密码保险柜（妍妍专用版）应运而生。\n本应用对用户密码进行强加密保存，请务必牢记应用密码，遗忘将无法找回数据。\n\n制作：最爱妍妍的老公</string>
+
+    <string name="init_introduce">首次运行需设置加密密码，请牢记！加密密码是获取您的数据的唯一途径！遗忘无法找回。</string>
+    <string name="init_password">设置密码</string>
+    <string name="init_password_again">重复密码</string>
+    <string name="init_enable_fingerprint">启用指纹登录</string>
+
+    <string name="login_require_password">请输入密码</string>
+    <string name="login_notice">如果您忘记了您的密码，您无法访问您的所有记录。\n您可以在设置中重置本应用的数据以重设新的密码。</string>
+
+    <string name="detail_application">应用名称</string>
+    <string name="detail_username">账号</string>
+    <string name="detail_password">密码</string>
+    <string name="detail_extra_info">备注</string>
+    <string name="detail_save">保存</string>
+    <string name="detail_delete">删除</string>
+    <string name="detail_hint">点击输入</string>
+</resources>
